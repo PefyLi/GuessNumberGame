@@ -11,3 +11,9 @@ And then will pop up a window like below!
 
 ![image](https://github.com/PefyLi/GuessNumberGame/blob/master/guess.PNG)
 
+![image](https://github.com/PefyLi/GuessNumberGame/blob/master/guess2.PNG)
+
+![image](https://github.com/PefyLi/GuessNumberGame/blob/master/guess3.PNG))
+
+![image](https://github.com/PefyLi/GuessNumberGame/blob/master/guess4.PNG)
+
